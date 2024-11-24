@@ -1,1 +1,8 @@
-
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: Zhong
+    given-names: Jiading
+title: "Synthetic dataset from a LES model"
+version: 1.0.0
+url: "https://github.com/AllanZJD/Data4SmartSensor"
