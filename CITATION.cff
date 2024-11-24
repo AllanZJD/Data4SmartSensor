@@ -5,4 +5,5 @@ authors:
     given-names: Jiading
 title: "Synthetic dataset from a LES model"
 version: 1.0.0
+type: dataset
 url: "https://github.com/AllanZJD/Data4SmartSensor"
